@@ -1,7 +1,12 @@
 import numpy as np
-from matplotlib.pyplot import plot, show
+import matplotlib.pyplot as plt
 x1 = np.arange(0, 100, 1)
-plot(x1, x1 ** 2)
-show()
+plt.plot(x1, x1 ** 2)
+plt.show()
 
 
+
+
+
+
+#%%
