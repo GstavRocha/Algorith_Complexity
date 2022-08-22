@@ -5,3 +5,8 @@ https://www.educative.io/courses/algorithms-coding-interviews-python/B62q79Pn2AJ
 
 
 Analysis of Consumed Data using Algorithm complexity.
+
+execute:
+pip install matplotlib
+and
+pip install numpy
